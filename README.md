@@ -34,35 +34,27 @@
 <a href="https://auth.geeksforgeeks.org/user/jainanjali0605" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jainanjali0605" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-## Languages 
-  -
-    ![C](https://icongr.am/devicon/c-original.svg?size=100&color=currentColor)
-    ![JAVA](https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor)
-    ![Python](https://icongr.am/devicon/python-original-wordmark.svg?size=128&color=currentColor)
-    ![Cpluplus](https://icongr.am/devicon/Cplusplus-original-wordmark.svg?size=128&color=currentColor)
+<h3 align="left">Web Development Tools:</h3>
 
-<br>   
-## Full-Stack Development 
--
-   ![HTML5](https://icongr.am/devicon/html5-original-wordmark.svg?size=100&color=currentColor)
-   ![CSS3](https://icongr.am/devicon/css3-original-wordmark.svg?size=100&color=currentColor)
-   ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=100&color=currentColor)
-   <img src="https://miro.medium.com/max/512/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="mongoDB" height="80" width="100">
-   <img src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png" alt="mongoDB" height="100" width="150">
-   <img src="https://miro.medium.com/max/1400/1*JTVVQUW71CNf2ySo5h45zA.png" alt="mongoDB" height="80" width="100">
-<br>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+  
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 
-    
-<br>
-- **Softwares and Tools**:
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-<br>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 </p>
 <br>
 <br>
------
-<br>
+
+<h3 align="left">Programming Languages</h3>
+<p align="left">
+  
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  
+   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+
+</p>
+
