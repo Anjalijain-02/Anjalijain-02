@@ -1,10 +1,13 @@
 <h1 align="center"><b>Hi , I'm Anjali Jain </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a style="color:blue" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer,;Computer+Science+Student,;Active+Learner,;Coding+Lover..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer,;Computer+Science+Student,;Active+Learner,;Coding+Lover..<3"></a>
 </p>
 <br>
 <br>
 <img src="https://komarev.com/ghpvc/?username=anjalijain&style=flat-square&color=blue" alt="Views"/>
+<br>
+<picture> <img align="right" src="https://youwebsolutionz.files.wordpress.com/2021/12/learn-web-designing.gif" width = "250px"></picture>
+
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anjalijain-02](https://github.com/Anjalijain-02)
