@@ -7,16 +7,16 @@
 <h2>About Me<h2>
 <picture> <img align="right" src="https://youwebsolutionz.files.wordpress.com/2021/12/learn-web-designing.gif" width = "250px"></picture>
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently persuing **BTECH CSE**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anjalijain-02](https://github.com/Anjalijain-02)
 
-- 💬 Ask me about **C,C++,JAVA**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **https://www.linkedin.com/in/anjali-jain02**
 
 
-- ⚡ Fun fact **In addition to coding, I also enjoy playing video games. Whenever I hit a roadblock in my coding projects, I take a break and play a quick game to clear my head. My all-time favorite game is Portal - I love how it challenges you to think outside the box and come up with creative solutions to puzzles.**
+- ⚡ Fun fact **In addition to coding, I also enjoy playing mobile games. Whenever I hit a roadblock in my coding projects, I take a break and play a quick game to clear my head. **
 
 
 <h3 align="left">Connect with me:</h3>
