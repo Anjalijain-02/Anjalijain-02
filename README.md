@@ -6,7 +6,7 @@
 
 <br>
 <img src="https://komarev.com/ghpvc/?username=anjalijain&style=flat-square&color=blue" alt="Views"/>
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> About Me </b>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> About Me </b>
 <picture> <img align="right" src="https://youwebsolutionz.files.wordpress.com/2021/12/learn-web-designing.gif" width = "250px"></picture>
 
 - 🌱 I’m currently learning **Reactjs**
@@ -34,3 +34,35 @@
 <a href="https://auth.geeksforgeeks.org/user/jainanjali0605" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jainanjali0605" height="30" width="40" /></a>
 </p>
 
+<p align="center">
+## Languages 
+  -
+    ![C](https://icongr.am/devicon/c-original.svg?size=100&color=currentColor)
+    ![JAVA](https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor)
+    ![Python](https://icongr.am/devicon/python-original-wordmark.svg?size=128&color=currentColor)
+    ![Cpluplus](https://icongr.am/devicon/Cplusplus-original-wordmark.svg?size=128&color=currentColor)
+
+<br>   
+## Full-Stack Development 
+-
+   ![HTML5](https://icongr.am/devicon/html5-original-wordmark.svg?size=100&color=currentColor)
+   ![CSS3](https://icongr.am/devicon/css3-original-wordmark.svg?size=100&color=currentColor)
+   ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=100&color=currentColor)
+   <img src="https://miro.medium.com/max/512/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="mongoDB" height="80" width="100">
+   <img src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png" alt="mongoDB" height="100" width="150">
+   <img src="https://miro.medium.com/max/1400/1*JTVVQUW71CNf2ySo5h45zA.png" alt="mongoDB" height="80" width="100">
+<br>
+
+    
+<br>
+- **Softwares and Tools**:
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<br>
+</p>
+<br>
+<br>
+-----
+<br>
