@@ -7,6 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=anjalijain&style=flat-square&color=blue" alt="Views"/>
 <br>
 <picture> <img align="right" src="https://youwebsolutionz.files.wordpress.com/2021/12/learn-web-designing.gif" width = "250px"></picture>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> About Me </b>
 
 - 🌱 I’m currently learning **React**
 
