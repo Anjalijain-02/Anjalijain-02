@@ -3,11 +3,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer,;Computer+Science+Student,;Active+Learner,;Love+to+do+coding..<3"></a>
 </p>
 <br>
-
-<br>
 <img src="https://komarev.com/ghpvc/?username=anjalijain&style=flat-square&color=blue" alt="Views"/>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> About Me </b>
-<picture> <img src="https://youwebsolutionz.files.wordpress.com/2021/12/learn-web-designing.gif" width = "250px"></picture>
+<h2>About Me<h2>
+<picture> <img align="right" src="https://youwebsolutionz.files.wordpress.com/2021/12/learn-web-designing.gif" width = "250px"></picture>
 
 - 🌱 I’m currently learning **Reactjs**
 
