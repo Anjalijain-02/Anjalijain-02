@@ -19,7 +19,7 @@
 - ⚡ Fun fact **In addition to coding, I also enjoy playing mobile games. Whenever I hit a roadblock in my coding projects, I take a break and play a quick game to clear my head. **
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">CHECK ME OUT HERE:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/anjali-jain02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjali jain" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/anjalijain_07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anjalijain_07" height="30" width="40" /></a>
