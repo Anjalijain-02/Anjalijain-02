@@ -17,7 +17,16 @@
 
 
 - ⚡ Fun fact **In addition to coding, I also enjoy playing mobile games. Whenever I hit a roadblock in my coding projects, I take a break and play a quick game to clear my head. **
+<div align="center">
 
+<a href="https://github.com/Anjalijain-02">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anjalijain-02&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anjalijain-02&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="280" height="200" alt="anjalijain"/>
+
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=anjalijain-02&theme=dark)](https://git.io/streak-stats)
+
+</a>
+</div>
 
 <h3 align="left">CHECK ME OUT HERE:</h3>
 <p align="left">
@@ -43,13 +52,4 @@
 <p align="left"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 </p>
-<div align="center">
 
-<a href="https://github.com/kajalrathore24">
-  <img src="https://github-readme-stats.vercel.app/api?username=kajalrathore24&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kajalrathore24&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="280" height="200" alt="kajalrathore"/>
-
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=kajalrathore24&theme=dark)](https://git.io/streak-stats)
-
-</a>
-</div>
