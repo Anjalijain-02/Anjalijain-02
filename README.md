@@ -16,7 +16,7 @@
 - 📫 How to reach me **https://www.linkedin.com/in/anjali-jain02**
 
 
-- ⚡ Fun fact **In addition to coding, I also enjoy playing mobile games. Whenever I hit a roadblock in my coding projects, I take a break and play a quick game to clear my head. **
+- ⚡ Fun fact **Coffee Lover**
 - # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 <div align="center">
@@ -31,7 +31,7 @@
 </div>
 <br>
 <br>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anjalijain-02&show_icons=true&locale=en&layout=compact" alt="anjalijain" /></p>
+  
 <br>   
 
 ## Full-Stack Development 
